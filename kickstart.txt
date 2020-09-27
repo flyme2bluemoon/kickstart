@@ -15,11 +15,14 @@ Round C
     CANDIES
 Round D
     RECORD BREAKER - test set passed
-    ALIEN PIANO
+    ALIEN PIANO - test set passed
     BEAUTY OF TREE
     LOCKED DOOR
 Round E
-    TBD
+    LONGEST ARITHMETIC - test set passed
+    HIGH BUILDINGS - test set passed
+    TOYS - test set passed with TLE
+    GOLDEN STONE
 Round F
     TBD
 Round G
