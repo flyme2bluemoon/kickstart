@@ -1,0 +1,1 @@
+T = Int(readLine)
